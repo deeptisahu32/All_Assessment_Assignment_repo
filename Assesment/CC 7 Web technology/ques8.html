@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Question 8: Append Paragraph on Input Change</title>
+  <!-- jQuery CDN -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+/* Heading */
+h3 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+/* Input field styling */
+input[type="text"] {
+  width: 250px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+/* Messages container */
+#messages {
+  width: 300px;
+  padding: 10px;
+  border: 2px solid #333;
+  border-radius: 8px;
+  background-color: #fff;
+  text-align: left;
+}
+
+#messages p {
+  margin: 5px 0;
+  font-size: 16px;
+  color: #0b82ff;
+  font-weight: bold;
+}
+
+  </style>
+</head>
+<body>
+  <h3>Enter Something:</h3>
+  <input type="text" id="myInput" placeholder="Type and change value">
+  <div id="messages"></div>
+
+  <script>
+    $('#myInput').on('change', function () {
+      const value = $(this).val();
+      $('#messages').append('<p>Input changed to: ' + value + '</p>');
+    });
+  </script>
+</body>
+</html>

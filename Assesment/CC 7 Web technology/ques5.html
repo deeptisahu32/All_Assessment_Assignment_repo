@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>jQuery: H1 Children of DIV</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    .highlight {
+      background: #ffef99;
+      padding: 8px 12px;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>Direct child of DIV (highlighted)</h1>
+  </div>
+
+  <div>
+    <article>
+      <h1>Not a direct child of DIV (not highlighted)</h1>
+    </article>
+  </div>
+
+  <div>
+    <h1>Direct child of DIV (highlighted)</h1>
+  </div>
+
+  <div>
+    <article>
+      <h1>Not a direct child of DIV (not highlighted)</h1>
+    </article>
+  </div>
+
+  <div>
+    <h1>Direct child of DIV (highlighted)</h1>
+  </div>
+
+  <script>
+    // Select h1 elements that are direct children of div elements
+    $('div > h1').addClass('highlight');
+  </script>
+</body>
+</html>

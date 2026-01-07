@@ -1,0 +1,52 @@
+﻿@model HTML_HELPER_PRJ.Models.Students
+@{
+    ViewBag.Title = "StandardHelper";
+    Layout = null;
+}
+
+<!Doctype html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    
+</head>
+<body>
+    <h2>Standard Html</h2>
+    @Html.Label("name", "First name")
+    @Html.TextBox("txtname", "", new { @class = "form-control", placeholder = "First Name" })
+    <br />
+    <br />
+    @Html.Label("Address", "Address")
+    @Html.TextArea("addredd", new { @class = "form-control", rows = 5, placeholder = "Address" })
+    <br />
+    @Html.Password("pass", "", new { @class = "form-control" })
+    <br />
+    @Html.RadioButton("martial status", "Married", new { id = "IsMarried" }) Married ?
+    <br />
+    
+    @Html.CheckBox("sk1") HTML 5
+    @Html.CheckBox("sk1") Dot Net
+    @Html.CheckBox("sk1") SQL
+    @Html.CheckBox("sk1") ASP NET
+    <br />
+    <br />
+    @Html.ListBox("skills",new List<SelectListItem>
+   {
+    new SelectListItem{Text="ASP.NET", Value="1"},
+        new SelectListItem{Text="MVC", Value="2"},
+          new SelectListItem{Text="React JS", Value="3"},
+             new SelectListItem{Text="Angular", Value="4"},
+               new SelectListItem{Text="Html", Value="5"},
+  },new {@class="form-control"})
+    <br />
+    <br />
+    @Html.DropDownList("gender",new List<SelectListItem> {
+        new SelectListItem{Text="select gender", Value="-1"},
+             new SelectListItem{Text="Male", Value="1"},
+               new SelectListItem{Text="female", Value="2"},
+                   new SelectListItem{Text="other", Value="3"},
+
+
+} ,new {@class="custom-select"})
+</body>
+</html>

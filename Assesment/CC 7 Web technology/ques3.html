@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Click Logger</title>    
+<style>
+  
+    body{
+           display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+       }
+
+       
+      h3{
+            margin-bottom: 20px;
+            color: #333;
+        }   
+button {
+            padding: 0.6rem 1rem;
+            background: #0b82ff; 
+            color: #fff;
+            border: none;
+            border-radius: 6px; font-size: 16px;
+        }
+
+        button:hover { 
+            background: #0569cc;
+        }
+
+  </style>
+
+</head>
+<body>
+    
+  <h3>Question 3: Click Event Listener</h3>
+
+<button id="logBtn">Click me</button>
+<div id="output"></div>
+
+<script>
+    
+    const btn = document.getElementById('logBtn');
+    const output = document.getElementById('output');
+
+    // Add a click event listener to log a message
+    btn.addEventListener('click', function () {
+      
+      const message = 'Button  clicked!';
+      console.log(message); 
+      output.textContent = message; 
+
+
+    });
+  </script>
+
+</body>
+</html>

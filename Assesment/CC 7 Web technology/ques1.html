@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Multiplication & Division</title>
+  <link rel="stylesheet" href="web.css" />
+ 
+</head>
+<body>
+  <div class="container">
+    <h3>Calculator</h3>
+
+    <input type="number" id="num1" placeholder="Enter first number" />
+    <input type="number" id="num2" placeholder="Enter second number" />
+
+    <div class="buttons">
+      <button id="btnMultiply">Multiply</button>
+      <button id="btnDivide">Divide</button>
+    </div>
+
+    <div class="result" id="result"></div>
+  </div>
+
+  <!-- JavaScript code -->
+  <script>
+    function getInputs() {
+      const num1 = parseFloat(document.getElementById('num1').value);
+      const num2 = parseFloat(document.getElementById('num2').value);
+      return { num1, num2 };
+    }
+
+    function showMessage(msg) {
+      document.getElementById('result').textContent = msg;
+    }
+
+    function multiply() {
+      const { num1, num2 } = getInputs();
+
+      if (!isNaN(num1) && !isNaN(num2)) {
+        showMessage(`Multiplication: ${num1 * num2}`);
+      } else {
+        showMessage('Please enter valid numbers!');
+      }
+    }
+
+    function divide() {
+      const { num1, num2 } = getInputs();
+
+      if (!isNaN(num1) && !isNaN(num2)) {
+        if (num2 !== 0) {
+          showMessage(`Division: ${(num1 / num2).toFixed(2)}`);
+        } else {
+          showMessage('Cannot divide by zero!');
+        }
+      } else {
+        showMessage('Please enter valid numbers!');
+      }
+    }
+
+    document.getElementById('btnMultiply').addEventListener('click', multiply);
+    document.getElementById('btnDivide').addEventListener('click', divide);
+  </script>
+</body>
+</html>

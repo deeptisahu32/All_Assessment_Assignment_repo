@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\5 jan\\mvc_database_first\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\shipper\\sp_with_parameter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\shipper\\sp_with_parameter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\shipper\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\shipper\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\shipper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\shipper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\navigation\\multipledata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\navigation\\multipledata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\controllers\\navigationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:controllers\\navigationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\category\\getcategorybyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\category\\getcategorybyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\category\\getcategorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\category\\getcategorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5354DC09-AAA9-485F-A3FA-73B6C144624E}|MVC_DATABASE_FIRST.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T17:14:26.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T17:11:12.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T17:01:45.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:46:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SP_with_Parameter.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Shipper\\SP_with_Parameter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipper\\SP_with_Parameter.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Shipper\\SP_with_Parameter.cshtml",
+              "RelativeToolTip": "Views\\Shipper\\SP_with_Parameter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:35:28.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Shipper\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipper\\Create.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Shipper\\Create.cshtml",
+              "RelativeToolTip": "Views\\Shipper\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:31:03.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Shipper\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shipper\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Shipper\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shipper\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:23:53.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShipperController.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\ShipperController.cs",
+              "RelativeToolTip": "Controllers\\ShipperController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:18:42.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MultipleData.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Navigation\\MultipleData.cshtml",
+              "RelativeDocumentMoniker": "Views\\Navigation\\MultipleData.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Navigation\\MultipleData.cshtml",
+              "RelativeToolTip": "Views\\Navigation\\MultipleData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:16:32.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavigationController.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\NavigationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NavigationController.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\NavigationController.cs",
+              "RelativeToolTip": "Controllers\\NavigationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:14:57.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetCategoryByName.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\GetCategoryByName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\GetCategoryByName.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\GetCategoryByName.cshtml",
+              "RelativeToolTip": "Views\\Category\\GetCategoryByName.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:12:51.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:10:43.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T16:01:32.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:47:59.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:19:13.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetCategoryDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\GetCategoryDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\GetCategoryDetails.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\GetCategoryDetails.cshtml",
+              "RelativeToolTip": "Views\\Category\\GetCategoryDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:14:09.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:11:04.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:08:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T12:15:23.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T12:08:05.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:39:47.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_DATABASE_FIRST\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:39:14.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

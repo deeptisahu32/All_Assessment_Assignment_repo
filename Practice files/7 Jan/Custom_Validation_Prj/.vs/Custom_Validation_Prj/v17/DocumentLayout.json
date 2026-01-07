@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\customvalidations\\validatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\validatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\customvalidations\\validbirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\validbirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\customvalidations\\validdoj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\validdoj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\customvalidations\\skillvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\skillvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\customvalidations\\birthdatesecondvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\birthdatesecondvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\customvalidations\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\custom_validation_prj\\models\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:models\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "validatepassword.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\validatepassword.cs",
+              "RelativeDocumentMoniker": "CustomValidations\\validatepassword.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\validatepassword.cs",
+              "RelativeToolTip": "CustomValidations\\validatepassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:12:52.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BirthdateSecondValidation.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\BirthdateSecondValidation.cs",
+              "RelativeDocumentMoniker": "CustomValidations\\BirthdateSecondValidation.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\BirthdateSecondValidation.cs",
+              "RelativeToolTip": "CustomValidations\\BirthdateSecondValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T10:46:28.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkillValidation.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\SkillValidation.cs",
+              "RelativeDocumentMoniker": "CustomValidations\\SkillValidation.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\SkillValidation.cs",
+              "RelativeToolTip": "CustomValidations\\SkillValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T10:29:21.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidDOJ.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\ValidDOJ.cs",
+              "RelativeDocumentMoniker": "CustomValidations\\ValidDOJ.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\ValidDOJ.cs",
+              "RelativeToolTip": "CustomValidations\\ValidDOJ.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:54:11.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\Views\\JobApplication\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\JobApplication\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\Views\\JobApplication\\Index.cshtml",
+              "RelativeToolTip": "Views\\JobApplication\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwGQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T09:32:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:31:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenderValidate.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\GenderValidate.cs",
+              "RelativeDocumentMoniker": "CustomValidations\\GenderValidate.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\GenderValidate.cs",
+              "RelativeToolTip": "CustomValidations\\GenderValidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:28:23.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidBirthDate.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\ValidBirthDate.cs",
+              "RelativeDocumentMoniker": "CustomValidations\\ValidBirthDate.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\CustomValidations\\ValidBirthDate.cs",
+              "RelativeToolTip": "CustomValidations\\ValidBirthDate.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:24:30.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\Models\\CheckBox.cs",
+              "RelativeDocumentMoniker": "Models\\CheckBox.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\Models\\CheckBox.cs",
+              "RelativeToolTip": "Models\\CheckBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:20:49.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\Custom_Validation_Prj\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Models\\JobApplication.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:20:33.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

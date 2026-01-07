@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="infiniteModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="DeptId" />
+          </Key>
+          <Property Name="DeptId" Type="int" Nullable="false" />
+          <Property Name="DeptName" Type="varchar" MaxLength="50" />
+          <Property Name="Budget" Type="decimal" Precision="10" Scale="2" />
+        </EntityType>
+        <EntityType Name="Employees">
+          <Key>
+            <PropertyRef Name="empid" />
+          </Key>
+          <Property Name="empid" Type="int" Nullable="false" />
+          <Property Name="empname" Type="varchar" MaxLength="50" />
+          <Property Name="gender" Type="char" MaxLength="10" />
+          <Property Name="salary" Type="float" />
+          <Property Name="deptid" Type="int" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'infinite.dbo.tblExceptionLog' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="tblExceptionLog">
+          <Key>
+            <PropertyRef Name="LogId" />
+          </Key>
+          <Property Name="LogId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Exceptionmsg" Type="nvarchar" MaxLength="100" />
+          <Property Name="Exceptiontype" Type="varchar" MaxLength="100" />
+          <Property Name="Exceptionsource" Type="nvarchar(max)" />
+          <Property Name="ExceptionURL" Type="varchar" MaxLength="100" />
+          <Property Name="LogDate" Type="datetime" />
+        </EntityType>
+        <EntityType Name="tblproducts">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ProductName" Type="nvarchar" MaxLength="50" />
+          <Property Name="Description" Type="nvarchar" MaxLength="200" />
+        </EntityType>
+        <Association Name="FK__Employees__depti__5EBF139D">
+          <End Role="Department" Type="Self.Department" Multiplicity="0..1" />
+          <End Role="Employees" Type="Self.Employees" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="DeptId" />
+            </Principal>
+            <Dependent Role="Employees">
+              <PropertyRef Name="deptid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="infiniteModelStoreContainer">
+          <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblproducts" EntityType="Self.tblproducts" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblExceptionLog" EntityType="Self.tblExceptionLog" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [tblExceptionLog].[LogId] AS [LogId], 
+    [tblExceptionLog].[Exceptionmsg] AS [Exceptionmsg], 
+    [tblExceptionLog].[Exceptiontype] AS [Exceptiontype], 
+    [tblExceptionLog].[Exceptionsource] AS [Exceptionsource], 
+    [tblExceptionLog].[ExceptionURL] AS [ExceptionURL], 
+    [tblExceptionLog].[LogDate] AS [LogDate]
+    FROM [dbo].[tblExceptionLog] AS [tblExceptionLog]</DefiningQuery>
+          </EntitySet>
+          <AssociationSet Name="FK__Employees__depti__5EBF139D" Association="Self.FK__Employees__depti__5EBF139D">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Employees" EntitySet="Employees" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="infiniteModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="DeptId" />
+          </Key>
+          <Property Name="DeptId" Type="Int32" Nullable="false" />
+          <Property Name="DeptName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Budget" Type="Decimal" Precision="10" Scale="2" />
+          <NavigationProperty Name="Employees" Relationship="Self.FK__Employees__depti__5EBF139D" FromRole="Department" ToRole="Employees" />
+        </EntityType>
+        <EntityType Name="Employee">
+          <Key>
+            <PropertyRef Name="empid" />
+          </Key>
+          <Property Name="empid" Type="Int32" Nullable="false" />
+          <Property Name="empname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="gender" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="salary" Type="Double" />
+          <Property Name="deptid" Type="Int32" />
+          <NavigationProperty Name="Department" Relationship="Self.FK__Employees__depti__5EBF139D" FromRole="Employees" ToRole="Department" />
+        </EntityType>
+        <EntityType Name="tblproduct">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ProductName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="tblExceptionLog">
+          <Key>
+            <PropertyRef Name="LogId" />
+          </Key>
+          <Property Name="LogId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Exceptionmsg" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Exceptiontype" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Exceptionsource" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="ExceptionURL" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="LogDate" Type="DateTime" Precision="3" />
+        </EntityType>
+        <Association Name="FK__Employees__depti__5EBF139D">
+          <End Role="Department" Type="Self.Department" Multiplicity="0..1" />
+          <End Role="Employees" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="DeptId" />
+            </Principal>
+            <Dependent Role="Employees">
+              <PropertyRef Name="deptid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="infiniteEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Departments" EntityType="Self.Department" />
+          <EntitySet Name="Employees" EntityType="Self.Employee" />
+          <EntitySet Name="tblproducts" EntityType="Self.tblproduct" />
+          <EntitySet Name="tblExceptionLogs" EntityType="Self.tblExceptionLog" />
+          <AssociationSet Name="FK__Employees__depti__5EBF139D" Association="Self.FK__Employees__depti__5EBF139D">
+            <End Role="Department" EntitySet="Departments" />
+            <End Role="Employees" EntitySet="Employees" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="infiniteModelStoreContainer" CdmEntityContainer="infiniteEntities">
+          <EntitySetMapping Name="Departments">
+            <EntityTypeMapping TypeName="infiniteModel.Department">
+              <MappingFragment StoreEntitySet="Department">
+                <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+                <ScalarProperty Name="DeptName" ColumnName="DeptName" />
+                <ScalarProperty Name="Budget" ColumnName="Budget" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Employees">
+            <EntityTypeMapping TypeName="infiniteModel.Employee">
+              <MappingFragment StoreEntitySet="Employees">
+                <ScalarProperty Name="empid" ColumnName="empid" />
+                <ScalarProperty Name="empname" ColumnName="empname" />
+                <ScalarProperty Name="gender" ColumnName="gender" />
+                <ScalarProperty Name="salary" ColumnName="salary" />
+                <ScalarProperty Name="deptid" ColumnName="deptid" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblproducts">
+            <EntityTypeMapping TypeName="infiniteModel.tblproduct">
+              <MappingFragment StoreEntitySet="tblproducts">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblExceptionLogs">
+            <EntityTypeMapping TypeName="infiniteModel.tblExceptionLog">
+              <MappingFragment StoreEntitySet="tblExceptionLog">
+                <ScalarProperty Name="LogId" ColumnName="LogId" />
+                <ScalarProperty Name="Exceptionmsg" ColumnName="Exceptionmsg" />
+                <ScalarProperty Name="Exceptiontype" ColumnName="Exceptiontype" />
+                <ScalarProperty Name="Exceptionsource" ColumnName="Exceptionsource" />
+                <ScalarProperty Name="ExceptionURL" ColumnName="ExceptionURL" />
+                <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

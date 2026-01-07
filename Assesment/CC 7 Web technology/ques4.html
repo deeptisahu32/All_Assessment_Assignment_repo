@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hide Odd Rows (jQuery)</title>
+  <!-- using Jquery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <style>   
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 400px;
+  text-align: center;
+  background-color: #fff;
+  border: 2px solid #333;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 16px;
+}
+
+th {
+  background-color: grey;
+  color: #fff;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Buttons styling */
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: rgb(9, 130, 82);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #74d696;
+}
+
+  </style>
+</head>
+<body>
+  <table id="myTable">
+    <thead>
+      <tr><th>Sn.</th><th>Name</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>1</td><td>Ram</td></tr>
+      <tr><td>2</td><td>Shobha</td></tr>
+      <tr><td>3</td><td>Komal</td></tr>
+      <tr><td>4</td><td>preeti</td></tr>
+      <tr><td>5</td><td>Jayant</td></tr>
+    </tbody>
+  </table>
+
+  <button id="hideBtn">Hide Odd Rows</button>
+  <button id="showBtn">Show All Rows</button>
+
+  <script>
+    $('#hideBtn').on('click', function () {
+      $('#myTable tbody tr:nth-child(odd)').hide(); 
+    });
+
+    $('#showBtn').on('click', function () {
+      $('#myTable tbody tr').show();       
+    });
+  </script>
+</body>
+</html>
+

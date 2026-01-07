@@ -1,0 +1,30 @@
+﻿@model HTML_HELPER_PRJ.Models.Students
+@{
+    ViewBag.Title = "TemplatedHelper_ind";
+}
+
+<h2>TemplatedHelper_ind</h2>
+
+@using (Html.BeginForm())
+            {
+                <table>
+                    <!--Templeted type-->
+                    <tr>
+                        <td>@Html.DisplayName("Roll Number")</td>
+                        <td>@Html.Editor("RNo")</td>
+                    </tr>
+                    <!-- Strongly typed-->
+                    <tr>
+                        <td>@Html.DisplayNameFor(m => m.RNo)</td>
+                        <td>@Html.EditorFor(m => m.RNo)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayName("Student Name")</td>
+                        <td>@Html.Editor("Name")</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayName("Student Address")</td>
+                        <td>@Html.Editor("RNo")</td>
+                    </tr>
+                </table>
+            }

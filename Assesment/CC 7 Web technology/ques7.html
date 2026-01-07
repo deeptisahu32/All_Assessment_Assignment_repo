@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Question 7: Add Index to List Items</title>
+  <!-- jQuery CDN -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<style>
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+/* Heading */
+h3 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+/* List styling */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 10px 15px;
+  margin: 5px 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  width: 200px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #0b82ff;
+}
+</style>
+</head>
+<body>
+  <h3>Programming Languages</h3>
+  <ul>
+    <li>CSHARP</li>
+    <li>SQL</li>
+    <li>ADO</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+
+  <script>
+    // Loop through each li and prepend its index
+    $('li').each(function(index) {
+      $(this).prepend(index + ' ');
+    });
+  </script>
+</body>
+</html>
