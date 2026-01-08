@@ -20,6 +20,7 @@ namespace Custom_Validation_Prj.Models
 
         [DisplayName("DOB")]
         [DataType(DataType.Date)]
+        [ThirdBirthdatevalidation(ErrorMessage = "Age must be between 21 and 25 years.")]
         [BirthdateSecondValidation]
         [ValidBirthDate(ErrorMessage = "DOB should be between 01/01/1998 and 31/12/2004 only")]
         public DateTime birthdate { get; set; }
@@ -53,7 +54,7 @@ namespace Custom_Validation_Prj.Models
 
         [Required]
         [DisplayName("Password")]
-        [RegularExpression(@"^[A-Z][0-9].{6}$",ErrorMessage = "Password must start with an uppercase letter, followed by a number, then any 6 characters (total 8).")]
+        [validatepassword(ErrorMessage = "Password must be 8 characters: uppercase letter, then a number, followed by 6 letters (A–Z or a–z).")] 
         public string Password { get; set; }
 
 

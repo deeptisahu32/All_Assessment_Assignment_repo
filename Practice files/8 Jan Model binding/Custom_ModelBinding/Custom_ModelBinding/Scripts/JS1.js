@@ -1,0 +1,1 @@
+﻿document.write("Hello and welcome in script 1")

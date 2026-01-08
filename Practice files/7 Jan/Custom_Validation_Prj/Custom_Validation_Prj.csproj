@@ -125,6 +125,7 @@
     <Compile Include="CustomValidations\BirthdateSecondValidation.cs" />
     <Compile Include="CustomValidations\GenderValidate.cs" />
     <Compile Include="CustomValidations\SkillValidation.cs" />
+    <Compile Include="CustomValidations\ThirdBirthdatevalidation.cs" />
     <Compile Include="CustomValidations\validatepassword.cs" />
     <Compile Include="CustomValidations\ValidBirthDate.cs" />
     <Compile Include="CustomValidations\ValidDOJ.cs" />

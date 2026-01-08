@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\views\\razor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\views\\razor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\controllers\\razorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\controllers\\razorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\views\\default\\bundling_minify.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\views\\default\\bundling_minify.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\scripts\\js1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\scripts\\js1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\scripts\\js2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\scripts\\js2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\scripts\\js3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\scripts\\js3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\customsbinding\\custombinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\customsbinding\\custombinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|c:\\training code files\\practice files\\8 jan model binding\\custom_modelbinding\\custom_modelbinding\\models\\custommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D871E-8217-4FF8-86C1-5D26AAFBA508}|Custom_ModelBinding\\Custom_ModelBinding.csproj|solutionrelative:custom_modelbinding\\models\\custommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Views\\Razor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Views\\Razor\\Index.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Views\\Razor\\Index.cshtml*",
+              "RelativeToolTip": "Custom_ModelBinding\\Views\\Razor\\Index.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T07:02:43.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RazorController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Controllers\\RazorController.cs",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Controllers\\RazorController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Controllers\\RazorController.cs",
+              "RelativeToolTip": "Custom_ModelBinding\\Controllers\\RazorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:02:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bundling_minify.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Views\\Default\\Bundling_minify.cshtml",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Views\\Default\\Bundling_minify.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Views\\Default\\Bundling_minify.cshtml",
+              "RelativeToolTip": "Custom_ModelBinding\\Views\\Default\\Bundling_minify.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T06:14:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Global.asax.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Global.asax.cs",
+              "RelativeToolTip": "Custom_ModelBinding\\Global.asax.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:12:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Custom_ModelBinding\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:03:43.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Js3.js",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Scripts\\Js3.js",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Scripts\\Js3.js",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Scripts\\Js3.js",
+              "RelativeToolTip": "Custom_ModelBinding\\Scripts\\Js3.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-08T06:02:21.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Js2.js",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Scripts\\Js2.js",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Scripts\\Js2.js",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Scripts\\Js2.js",
+              "RelativeToolTip": "Custom_ModelBinding\\Scripts\\Js2.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-08T06:02:12.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JS1.js",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Scripts\\JS1.js",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Scripts\\JS1.js",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Scripts\\JS1.js",
+              "RelativeToolTip": "Custom_ModelBinding\\Scripts\\JS1.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-08T06:01:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Custom_ModelBinding\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:01:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Custom_ModelBinding\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T05:17:41.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomBinder.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\CustomsBinding\\CustomBinder.cs",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\CustomsBinding\\CustomBinder.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\CustomsBinding\\CustomBinder.cs",
+              "RelativeToolTip": "Custom_ModelBinding\\CustomsBinding\\CustomBinder.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:02:09.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomModel.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Models\\CustomModel.cs",
+              "RelativeDocumentMoniker": "Custom_ModelBinding\\Models\\CustomModel.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\8 Jan Model binding\\Custom_ModelBinding\\Custom_ModelBinding\\Models\\CustomModel.cs",
+              "RelativeToolTip": "Custom_ModelBinding\\Models\\CustomModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:00:53.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

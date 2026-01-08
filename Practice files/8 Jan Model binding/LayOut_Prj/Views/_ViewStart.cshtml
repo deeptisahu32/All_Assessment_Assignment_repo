@@ -1,0 +1,53 @@
+﻿@*@{
+        Layout = "~/Views/Shared/CustomLayout.cshtml";
+    }*@
+
+
+<!--layout by browser-->
+@*@{ Layout = Request.Browser.IsBrowser("Chrome") ? "~/Views/Shared/CustomLayout.cshtml"
+      : "~/Views/Shared/diffrentlayout.cshtml";
+
+    }*@
+
+<!--Layout through controller-->
+
+@*@{
+    string CurrentName = Convert.ToString
+        (HttpContext.Current.Request.RequestContext.RouteData.Values["Controller"]);
+    dynamic Layout;
+    switch (CurrentName)
+    {
+        case "Home":
+            Layout = "~/Views/Shared/diffrentlayout.cshtml";
+            break;
+        case "tblEmployee":
+            Layout = "~/Views/Shared/CustomLayout.cshtml";
+            break;
+        default:
+            Layout = "~/Views/Shared/_Layout.cshtml";
+            break;
+    }
+}*@
+
+
+
+@{
+    // Safely get the controller name
+    var controller = ViewContext.RouteData.Values["controller"]?.ToString();
+
+    switch (controller)
+    {
+        case "Home":
+            Layout = "~/Views/Shared/CustomLayout.cshtml";
+            break;
+
+        case "tblEmployee":
+            Layout = "~/Views/Shared/diffrentlayout.cshtml";
+
+            break;
+
+        default:
+            Layout = "~/Views/Shared/_Layout.cshtml";
+            break;
+    }
+}

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Pratial_view_prj.Models.products>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.productid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productdecription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productprice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.productid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.category)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productdecription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productprice)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

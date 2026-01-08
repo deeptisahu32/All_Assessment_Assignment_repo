@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Pratial_view_prj.Models.products>
+@{
+    ViewBag.Title = "index1";
+}
+
+<h2>General View of products</h2>
+
+@foreach (var p in Model)
+{
+    <ul>
+        <li>@p.productid</li>
+        <li>@p.productname</li>
+        <li>@p.category</li>
+    </ul>
+}
+<hr />
+
+<h2>Products Partial View Rendering using multiple Options</h2>
+
+<!--partial way-->
+@*@Html.Partial("productdetails");*@
+
+<!--render partia way-->
+@*@{Html.RenderPartial("productdetails");
+    }*@
+
+<!--render action using curly braces-->
+@*@{ Html.RenderAction("GetAllProduct", "productdetails");
+    }*@
+
+<!--Action way -->
+@*@Html.Action("GetAllProduct");*@
+
+<hr />
+
+<!--using JQUERY LOAD FUNCTION-->
+<div id="partialview">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#partialview").load('/product/GetAllProduct')
+        });
+    </script>
+</div>
+
