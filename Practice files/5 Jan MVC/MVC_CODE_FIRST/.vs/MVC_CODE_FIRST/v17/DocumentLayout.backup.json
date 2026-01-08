@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\",
+  "WorkspaceRootPath": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\5 jan\\mvc_code_first\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|solutionrelative:models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\5 jan\\mvc_code_first\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|c:\\training code files\\practice files\\5 jan mvc\\mvc_code_first\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\5 jan\\mvc_code_first\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|c:\\users\\deeptisa\\onedrive - infinite computer solutions (india) limited\\desktop\\asp.net\\5 jan\\mvc_code_first\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E920D3-4330-4576-8106-152E9FB9D3A5}|MVC_CODE_FIRST.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductContext.cs",
-              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\Models\\ProductContext.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\Models\\ProductContext.cs",
               "RelativeDocumentMoniker": "Models\\ProductContext.cs",
-              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\Models\\ProductContext.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\Models\\ProductContext.cs",
               "RelativeToolTip": "Models\\ProductContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\Models\\Product.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,26 +56,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\Views\\Web.config",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\Views\\Web.config",
               "RelativeDocumentMoniker": "Views\\Web.config",
-              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\Views\\Web.config",
+              "ToolTip": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\Views\\Web.config",
               "RelativeToolTip": "Views\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-06T16:54:59.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T16:54:59.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\Web.config",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\deeptisa\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\asp.net\\5 Jan\\MVC_CODE_FIRST\\Web.config",
+              "ToolTip": "C:\\Training code files\\Practice files\\5 Jan MVC\\MVC_CODE_FIRST\\Web.config",
               "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-01-06T16:53:05.814Z",
               "EditorCaption": ""
