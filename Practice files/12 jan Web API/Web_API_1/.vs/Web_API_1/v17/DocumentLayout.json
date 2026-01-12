@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_1\\areas\\helppage\\app_start\\helppageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:areas\\helppage\\app_start\\helppageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_1\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_1\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelpPageConfig.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
+              "RelativeDocumentMoniker": "Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
+              "RelativeToolTip": "Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T15:46:01.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:33:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "App_Start\\SwaggerConfig.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwP0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:21:45.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:19:07.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:27:47.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:14:24.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

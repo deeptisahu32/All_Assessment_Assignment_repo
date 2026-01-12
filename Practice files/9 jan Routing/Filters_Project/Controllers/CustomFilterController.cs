@@ -9,6 +9,7 @@ namespace Filters_Project.Controllers
 {
     public class CustomFilterController : Controller
     {
+        [TrackExecutions]
         // GET: CustomFilter
         public string Index()
         {

@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\models\\userroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:models\\userroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\views\\accounts\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:views\\accounts\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|c:\\training code files\\practice files\\13 jan authentication\\authentication_form_project\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9F4B0ED1-058C-4675-8A99-B06637686354}|Authentication_Form_Project.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T10:32:28.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T10:32:26.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T10:23:44.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T10:23:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:22:39.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRoleProvider.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Models\\UserRoleProvider.cs",
+              "RelativeDocumentMoniker": "Models\\UserRoleProvider.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Models\\UserRoleProvider.cs",
+              "RelativeToolTip": "Models\\UserRoleProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:56:16.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-12T09:44:22.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:35:05.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Accounts\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\SignUp.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Accounts\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\SignUp.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T09:34:48.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T09:33:53.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:25:58.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:24:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Content\\Site.css",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Content\\Site.css",
+              "RelativeToolTip": "Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-12T09:22:52.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Models\\Model1.edmx",
+              "ToolTip": "C:\\Training code files\\Practice files\\13 jan Authentication\\Authentication_Form_Project\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-12T09:20:24.331Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

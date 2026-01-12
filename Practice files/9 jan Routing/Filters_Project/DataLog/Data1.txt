@@ -1,0 +1,18 @@
+
+CustomFilter-------> welcome -----> On Action Executing	 - 1/12/2026 3:56:46 PM
+
+CustomFilter-------> welcome -----> On Action Executed	 - 1/12/2026 3:57:11 PM
+
+customfilter-------> welcome -----> On Exception	 - 1/12/2026 3:57:11 PM
+
+CustomFilter-------> Index -----> On Action Executing	 - 1/12/2026 4:01:56 PM
+
+CustomFilter-------> index -----> On Action Executing	 - 1/12/2026 4:01:56 PM
+
+CustomFilter-------> index -----> On Action Executed	 - 1/12/2026 4:01:56 PM
+
+customfilter-------> index -----> On Result Executing	 - 1/12/2026 4:01:59 PM
+
+CustomFilter-------> Index -----> On Exception	 - 1/12/2026 4:01:59 PM
+
+customfilter-------> index -----> On Result Executed	 - 1/12/2026 4:01:59 PM
