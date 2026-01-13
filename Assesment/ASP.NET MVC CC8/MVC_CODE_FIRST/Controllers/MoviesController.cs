@@ -3,6 +3,7 @@ using MVC_CODE_FIRST.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.Mvc;
 
@@ -75,15 +76,20 @@ namespace MVC_CODE_FIRST.Controllers
             return RedirectToAction("Index");
         }
 
-        // Display movies released in a given year
-        public ActionResult ByYear(int year)
+        // by year
+
+        public ActionResult ListByYear(int year = 2002)
         {
-            var movies = repo.GetByYear(year);
             ViewBag.Year = year;
+            var movies = repo.GetByYear(year);
             return View(movies);
         }
 
+
+
+
         // Display all movies of a given director
+
 
         public ActionResult ListByDirector(string director = "XYZ")
         {

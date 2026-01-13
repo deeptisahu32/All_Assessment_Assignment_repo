@@ -1,0 +1,54 @@
+﻿
+@model IEnumerable<MVC_CODE_FIRST.Models.Movie>
+
+@{
+    ViewBag.Title = "Movies by Director";
+}
+
+<h2>@ViewBag.Title (@ViewBag.Director)</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-default" })
+</p>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(m => m.FirstOrDefault().MovieName)</th>
+                <th>@Html.DisplayNameFor(m => m.FirstOrDefault().DirectorName)</th>
+                <th>@Html.DisplayNameFor(m => m.FirstOrDefault().DateOfRelease)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.MovieName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DirectorName)</td>
+                    <td>@item.DateOfRelease.ToString("dd-MMM-yyyy")</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Mid }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.Mid }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Mid })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No movies found for director <strong>@ViewBag.Director</strong>.</p>
+}
+
+<!-- Quick search form to test different directors -->
+<form method="get" action="@Url.Action("ListByDirector", "Movies")" class="form-inline" style="margin-top: 16px;">
+    <label for="director">Search director:&nbsp;</label>
+    <input type="text" id="director" name="director" class="form-control" placeholder="e.g., Christopher Nolan" required />
+    <button type="submit" class="btn btn-primary" style="margin-left: 8px;">Go</button>
+</form>
+
+

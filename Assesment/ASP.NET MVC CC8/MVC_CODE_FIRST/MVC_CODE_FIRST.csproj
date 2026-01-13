@@ -124,8 +124,8 @@
     <Content Include="Views\Movies\Create.cshtml" />
     <Content Include="Views\Movies\Edit.cshtml" />
     <Content Include="Views\Movies\DeleteConfirmed.cshtml" />
-    <Content Include="Views\Movies\ByYear.cshtml" />
-    <Content Include="Views\Movies\ByDirector.cshtml" />
+    <Content Include="Views\Movies\ListByDirector.cshtml" />
+    <Content Include="Views\Movies\ListByYear.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
