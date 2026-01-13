@@ -1,0 +1,36 @@
+﻿
+@model MVC_CODE_FIRST.Models.Movie
+@{
+    ViewBag.Title = "Create Movie";
+}
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm( "Movies", "Create", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        @Html.LabelFor(m => m.MovieName)
+        @Html.TextBoxFor(m => m.MovieName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.MovieName)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DirectorName)
+        @Html.TextBoxFor(m => m.DirectorName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.DirectorName)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DateOfRelease)
+        @Html.TextBoxFor(m => m.DateOfRelease, new { @class = "form-control", type = "date" })
+        @Html.ValidationMessageFor(m => m.DateOfRelease)
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+
+    @Html.ActionLink("Go on edit", "Edit", null, new { @class = "btn btn-default" })
+    <br />
+    @Html.ActionLink("Go on Delete", "DeleteConfirmed", null, new { @class = "btn btn-default" })
+    <br />
+    @Html.ActionLink("Access By Year", "ByYear", null, new { @class = "btn btn-default" })
+    <br>
+    @Html.ActionLink("Access By Director", "ByDirector", null, new { @class = "btn btn-default" })
+
+}

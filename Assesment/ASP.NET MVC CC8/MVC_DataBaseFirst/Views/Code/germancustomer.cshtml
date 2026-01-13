@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MVC_DataBaseFirst.Models.Customer>
+@{
+    ViewBag.Title = "germancustomer";
+}
+
+<h2>Customers in Germany</h2>
+
+<h2>@ViewBag.Title</h2>
+
+<table>
+    <thead>
+        <tr>
+
+            <th>Customer ID</th>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>City</th>
+            <th>Country</th>
+
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.CustomerID</td>
+                <td>@c.CompanyName</td>
+                <td>@c.ContactName</td>
+                <td>@c.City</td>
+                <td>@c.Country</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<p>
+    @Html.ActionLink("View Order 10248 Details", "CustomerByOrder", "Code", new { id = 10248 }, new { @class = "btn btn-primary" })
+</p>
+
+

@@ -1,0 +1,81 @@
+﻿@model MVC_DataBaseFirst.Models.CustomerOrderVM
+@{
+    //ViewBag.Title = "CustomerByOrder";
+
+    ViewBag.Title = "Customer & Order Details";
+    var total = Model.Lines?.Sum(l => l.LineTotal) ?? 0m;
+
+}
+
+<h2>CustomerByOrder</h2>
+
+<h2>@ViewBag.Title</h2>
+
+
+<section>
+    <h3>Order</h3>
+    <p><strong>Order ID:</strong> @Model.OrderId</p>
+    <p><strong>Order Date:</strong> @(Model.OrderDate.HasValue ? Model.OrderDate.Value.ToShortDateString() : "-")</p>
+</section>
+
+
+<section>
+    <h3>Customer</h3>
+    <p><strong>Customer ID:</strong> @Model.CustomerId</p>
+    <p><strong>Company:</strong> @Model.CompanyName</p>
+    <p><strong>Contact:</strong> @Model.ContactName</p>
+    <p><strong>Phone:</strong> @Model.Phone</p>
+    <p><strong>Address:</strong> @Model.Address, @Model.City, @Model.Country</p>
+</section>
+
+<section>
+
+    <h3>Order Lines</h3>
+    @if (Model.Lines != null && Model.Lines.Any())
+    {
+        <table class="table table-bordered table-striped">
+
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Unit Price</th>
+                    <th>Quantity</th>
+                    <th>Discount</th>
+                    <th>Line Total</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var l in Model.Lines)
+                {
+                    <tr>
+                        <td>@l.ProductName</td>
+                        <td>@l.UnitPrice.ToString("C")</td>
+                        <td>@l.Quantity</td>
+                        <td>@l.Discount.ToString("P")</td>
+                        <td>@l.LineTotal.ToString("C")</td>
+                    </tr>
+                }
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <th colspan="4" class="text-right">Order Total:</th>
+                    <th>@total.ToString("C")</th>
+                </tr>
+            </tfoot>
+
+        </table>
+    }
+
+    else
+    {
+        <p>No order lines found.</p>
+    }
+
+
+</section>
+
+<p>
+    @Html.ActionLink("Back to German Customers", "GermanCustomers", "Code", null, new { @class = "btn btn-default" })
+</p>

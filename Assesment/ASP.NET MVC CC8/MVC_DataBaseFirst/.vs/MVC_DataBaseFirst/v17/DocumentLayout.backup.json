@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\views\\code\\germancustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:views\\code\\germancustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\models\\customerordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:models\\customerordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|c:\\training code files\\assesment\\asp.net mvc cc8\\mvc_databasefirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{611739B7-E0B2-44AF-92C6-E7EEE10449CD}|MVC_DataBaseFirst.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerByOrder.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Code\\CustomerByOrder.cshtml",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeToolTip": "Views\\Code\\CustomerByOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:49:00.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "germancustomer.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Views\\Code\\germancustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Code\\germancustomer.cshtml",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Views\\Code\\germancustomer.cshtml",
+              "RelativeToolTip": "Views\\Code\\germancustomer.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:43:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerOrderVM.cs",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\CustomerOrderVM.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerOrderVM.cs",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\CustomerOrderVM.cs",
+              "RelativeToolTip": "Models\\CustomerOrderVM.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:40:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "Models\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:30:04.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Models\\Model1.Context.tt",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\Model1.Context.tt",
+              "RelativeToolTip": "Models\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-13T04:30:02.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\Model1.tt",
+              "RelativeDocumentMoniker": "Models\\Model1.tt",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\Model1.tt",
+              "RelativeToolTip": "Models\\Model1.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-13T04:30:01.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "Controllers\\CodeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:27:19.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T04:24:21.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Models\\Model1.edmx",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET MVC CC8\\MVC_DataBaseFirst\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-13T04:23:18.947Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

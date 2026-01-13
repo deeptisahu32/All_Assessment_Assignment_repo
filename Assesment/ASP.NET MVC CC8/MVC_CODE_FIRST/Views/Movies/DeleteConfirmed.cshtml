@@ -1,0 +1,19 @@
+﻿@model MVC_CODE_FIRST.Models.Movie
+@{
+    ViewBag.Title = "Delete Movie";
+}
+<h2>@ViewBag.Title</h2>
+
+<div class="alert alert-warning">
+    Are you sure you want to delete <strong>@Model.MovieName</strong> directed by <strong>@Model.DirectorName</strong>?
+</div>
+
+@using (Html.BeginForm( "Movies", "Delete", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(m => m.Mid)
+    <button type="submit" class="btn btn-danger">Delete</button>
+    @Html.ActionLink("Go on edit", "Edit", null, new { @class = "btn btn-default" })
+    @Html.ActionLink("Go on Create", "Create", null, new { @class = "btn btn-default" })
+    @Html.ActionLink("Access By Year", "ByYear", null, new { @class = "btn btn-default" })
+    @Html.ActionLink("Access By Director", "ByDirector", null, new { @class = "btn btn-default" })}
