@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\asp.net_core_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:asp.net_core_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T10:38:06.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T10:14:31.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:52:48.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asp.net_Core_Prj.csproj",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Asp.net_Core_Prj.csproj",
+              "RelativeDocumentMoniker": "Asp.net_Core_Prj.csproj",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Asp.net_Core_Prj.csproj",
+              "RelativeToolTip": "Asp.net_Core_Prj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T08:00:23.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

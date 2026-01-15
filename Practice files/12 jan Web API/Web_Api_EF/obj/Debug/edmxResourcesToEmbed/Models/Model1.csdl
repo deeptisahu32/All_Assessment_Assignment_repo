@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="infiniteModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="DeptId" />
+    </Key>
+    <Property Name="DeptId" Type="Int32" Nullable="false" />
+    <Property Name="DeptName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Budget" Type="Decimal" Precision="10" Scale="2" />
+    <NavigationProperty Name="Employees" Relationship="Self.FK__Employees__depti__5EBF139D" FromRole="Department" ToRole="Employees" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="empid" />
+    </Key>
+    <Property Name="empid" Type="Int32" Nullable="false" />
+    <Property Name="empname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="gender" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="salary" Type="Double" />
+    <Property Name="deptid" Type="Int32" />
+    <NavigationProperty Name="Department" Relationship="Self.FK__Employees__depti__5EBF139D" FromRole="Employees" ToRole="Department" />
+  </EntityType>
+  <EntityType Name="tblproduct">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblExceptionLog">
+    <Key>
+      <PropertyRef Name="LogId" />
+    </Key>
+    <Property Name="LogId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Exceptionmsg" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Exceptiontype" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Exceptionsource" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ExceptionURL" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="LogDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <Association Name="FK__Employees__depti__5EBF139D">
+    <End Role="Department" Type="Self.Department" Multiplicity="0..1" />
+    <End Role="Employees" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="DeptId" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="deptid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="infiniteEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Departments" EntityType="Self.Department" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="tblproducts" EntityType="Self.tblproduct" />
+    <EntitySet Name="tblExceptionLogs" EntityType="Self.tblExceptionLog" />
+    <AssociationSet Name="FK__Employees__depti__5EBF139D" Association="Self.FK__Employees__depti__5EBF139D">
+      <End Role="Department" EntitySet="Departments" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

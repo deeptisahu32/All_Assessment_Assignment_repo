@@ -1,0 +1,5 @@
+C:\Training code files\Practice files\CosoleApp\obj\Debug\net9.0\CosoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training code files\Practice files\CosoleApp\obj\Debug\net9.0\CosoleApp.AssemblyInfoInputs.cache
+C:\Training code files\Practice files\CosoleApp\obj\Debug\net9.0\CosoleApp.AssemblyInfo.cs
+C:\Training code files\Practice files\CosoleApp\obj\Debug\net9.0\CosoleApp.csproj.CoreCompileInputs.cache
+C:\Training code files\Practice files\CosoleApp\obj\Debug\net9.0\CosoleApp.sourcelink.json
