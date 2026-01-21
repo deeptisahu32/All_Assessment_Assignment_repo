@@ -1,0 +1,17 @@
+﻿@model Users
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index of User</h1>
+
+<div>
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div class="alert alert-success">
+            @ViewBag.Message
+        </div>
+    }
+    
+</div>
+

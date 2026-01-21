@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\mvc_client\\views\\orders\\buchanan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|solutionrelative:views\\orders\\buchanan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\mvc_client\\models\\mvccustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|solutionrelative:models\\mvccustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\mvc_client\\views\\customer\\bycountryfetch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|solutionrelative:views\\customer\\bycountryfetch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\mvc_client\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\mvc_client\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\mvc_client\\models\\mvcorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7956CE-A387-450D-A890-1900AB909C68}|MVC_Client.csproj|solutionrelative:models\\mvcorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ByCountryFetch.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Views\\Customer\\ByCountryFetch.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\ByCountryFetch.cshtml",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Views\\Customer\\ByCountryFetch.cshtml",
+              "RelativeToolTip": "Views\\Customer\\ByCountryFetch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T06:36:06.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Buchanan.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Views\\Orders\\Buchanan.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Buchanan.cshtml",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Views\\Orders\\Buchanan.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Buchanan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T06:28:28.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MVCCustomer.cs",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Models\\MVCCustomer.cs",
+              "RelativeDocumentMoniker": "Models\\MVCCustomer.cs",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Models\\MVCCustomer.cs",
+              "RelativeToolTip": "Models\\MVCCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:22:31.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:21:59.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:14:01.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MVCOrder.cs",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Models\\MVCOrder.cs",
+              "RelativeDocumentMoniker": "Models\\MVCOrder.cs",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\MVC_Client\\Models\\MVCOrder.cs",
+              "RelativeToolTip": "Models\\MVCOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:10:32.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

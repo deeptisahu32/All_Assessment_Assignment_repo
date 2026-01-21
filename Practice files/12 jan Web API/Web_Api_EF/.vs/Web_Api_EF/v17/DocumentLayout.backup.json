@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_ef\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_ef\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
@@ -50,47 +50,45 @@
               "RelativeToolTip": "App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T05:09:04.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T05:09:04.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
               "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T11:57:08.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
               "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\Web.config",
               "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-01-13T11:57:00.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:36:49.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T11:36:49.536Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-01-13T11:25:33.203Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-01-13T11:25:33.203Z"
             }
           ]
         }

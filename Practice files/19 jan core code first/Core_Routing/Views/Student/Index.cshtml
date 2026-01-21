@@ -1,0 +1,46 @@
+﻿@model List<Core_Routing.Models.Student>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+
+                    @* Using Link *@
+
+                    @* <td>
+                        <a href="/Student/StdDetails/@s.Id" class="btn btn-primary">
+                            Details View
+                        </a>
+                    </td> *@
+
+                    @* using html helper *@
+
+                    @* <td>@Html.ActionLink("DetailsView","StdDetails","Student",
+                    new {id=s.Id},new {@class="btn btn-primary"})
+                    </td> *@
+
+                    @*Using Tag Helper *@
+                    <td>
+                        <a asp-action="stdDetails" asp-controller="Student" asp-route-id="@s.Id" class="btn btn-primary">Details View</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

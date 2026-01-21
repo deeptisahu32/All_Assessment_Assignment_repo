@@ -3,35 +3,35 @@
   "WorkspaceRootPath": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|c:\\training code files\\practice files\\12 jan web api\\web_mvc_client\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|c:\\training code files\\practice files\\12 jan web api\\web_mvc_client\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|c:\\training code files\\practice files\\12 jan web api\\web_mvc_client\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|c:\\training code files\\practice files\\12 jan web api\\web_mvc_client\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|c:\\training code files\\practice files\\12 jan web api\\web_mvc_client\\models\\mvcproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\models\\mvcproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:models\\mvcproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|c:\\training code files\\practice files\\12 jan web api\\web_mvc_client\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|c:\\training code files\\practice files\\12 jan web api\\web_mvc_client\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|c:\\training code files\\practice files\\12 jan web api\\web_mvc_client\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16DED291-76CD-463A-860B-256896631DCF}|Web_MVC_Client.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "Views\\Product\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T12:07:24.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T12:07:24.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T09:45:56.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T09:45:56.409Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T09:21:35.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T09:21:35.124Z"
             },
             {
               "$type": "Document",
@@ -110,12 +107,11 @@
               "RelativeToolTip": "Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T07:14:23.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:14:23.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DisplayProducts.cshtml",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\Views\\Product\\DisplayProducts.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\DisplayProducts.cshtml",
@@ -123,25 +119,24 @@
               "RelativeToolTip": "Views\\Product\\DisplayProducts.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T07:11:47.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:11:47.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAQwIcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T07:10:12.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MVCProduct.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_MVC_Client\\Models\\MVCProduct.cs",
               "RelativeDocumentMoniker": "Models\\MVCProduct.cs",
@@ -149,8 +144,7 @@
               "RelativeToolTip": "Models\\MVCProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:09:22.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:09:22.527Z"
             }
           ]
         }

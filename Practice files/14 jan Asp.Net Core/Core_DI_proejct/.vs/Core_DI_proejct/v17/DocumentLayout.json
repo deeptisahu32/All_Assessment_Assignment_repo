@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\core_di_proejct\\model\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|solutionrelative:model\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\core_di_proejct\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\core_di_proejct\\model\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|solutionrelative:model\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\core_di_proejct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\core_di_proejct\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57462E5B-217F-4B1A-AE8C-5FA84890E38C}|Core_DI_proejct.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:14:58.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:11:28.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Model\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Model\\StudentRepository.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Model\\StudentRepository.cs",
+              "RelativeToolTip": "Model\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:59:41.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Model\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Model\\IStudentRepository.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Model\\IStudentRepository.cs",
+              "RelativeToolTip": "Model\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:59:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Core_DI_proejct\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:56:55.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

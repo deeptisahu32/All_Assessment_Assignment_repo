@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\views\\user\\submitform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:views\\user\\submitform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\views\\student\\stddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:views\\student\\stddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|c:\\training code files\\practice files\\19 jan core code first\\core_routing\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D79FB9B-7A80-4D93-97B0-896865B53977}|Core_Routing.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Views\\User\\Index.cshtml*",
+              "RelativeToolTip": "Views\\User\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T11:26:25.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubmitForm.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Views\\User\\SubmitForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\SubmitForm.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Views\\User\\SubmitForm.cshtml",
+              "RelativeToolTip": "Views\\User\\SubmitForm.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T11:20:10.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Controllers\\UserController.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwDYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:10:59.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:08:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StdDetails.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Views\\Student\\StdDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\StdDetails.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Views\\Student\\StdDetails.cshtml",
+              "RelativeToolTip": "Views\\Student\\StdDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T10:42:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T10:34:13.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:05:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:59:07.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\19 jan core code first\\Core_Routing\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:57:56.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

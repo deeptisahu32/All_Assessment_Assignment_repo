@@ -1,0 +1,35 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<div class="container mt-5">
+
+    <div class="card shadow-lg border-0">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Student Details</h4>
+        </div>
+
+        <div class="card-body">
+
+            <div class="row mb-3">
+                <div class="col-4 fw-bold">Student ID:</div>
+                <div class="col-8">@Model.Id</div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-4 fw-bold">Name:</div>
+                <div class="col-8">@Model.Name</div>
+            </div>
+
+        </div>
+
+        <div class="card-footer text-end">
+            <a asp-action="Index" asp-controller="Student" class="btn btn-secondary">
+                ← Back to List
+            </a>
+        </div>
+    </div>
+
+</div>
+

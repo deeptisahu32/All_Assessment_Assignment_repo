@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\customvalidations\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\training code files\\practice files\\7 jan\\custom_validation_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\training code files\\practice files\\7 jan\\custom_validation_prj\\views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\training code files\\practice files\\7 jan\\custom_validation_prj\\customvalidations\\thirdbirthdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\customvalidations\\thirdbirthdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\thirdbirthdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,11 +31,7 @@
       "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\birthdatesecondvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|c:\\training code files\\practice files\\7 jan\\custom_validation_prj\\customvalidations\\validatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\customvalidations\\validatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\validatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\validdoj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\customvalidations\\skillvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\skillvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\customvalidations\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|solutionrelative:customvalidations\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1599925C-E855-4530-8623-4A70082E309D}|Custom_Validation_Prj.csproj|C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\models\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +58,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:00:07.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ThirdBirthdatevalidation.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\CustomValidations\\ThirdBirthdatevalidation.cs",
               "RelativeDocumentMoniker": "CustomValidations\\ThirdBirthdatevalidation.cs",
@@ -66,12 +87,11 @@
               "RelativeToolTip": "CustomValidations\\ThirdBirthdatevalidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T05:46:34.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T05:46:34.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "validatepassword.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\CustomValidations\\validatepassword.cs",
               "RelativeDocumentMoniker": "CustomValidations\\validatepassword.cs",
@@ -79,12 +99,11 @@
               "RelativeToolTip": "CustomValidations\\validatepassword.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T11:12:52.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T11:12:52.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BirthdateSecondValidation.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\CustomValidations\\BirthdateSecondValidation.cs",
               "RelativeDocumentMoniker": "CustomValidations\\BirthdateSecondValidation.cs",
@@ -92,12 +111,11 @@
               "RelativeToolTip": "CustomValidations\\BirthdateSecondValidation.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T10:46:28.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T10:46:28.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SkillValidation.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\CustomValidations\\SkillValidation.cs",
               "RelativeDocumentMoniker": "CustomValidations\\SkillValidation.cs",
@@ -109,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ValidDOJ.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\CustomValidations\\ValidDOJ.cs",
               "RelativeDocumentMoniker": "CustomValidations\\ValidDOJ.cs",
@@ -117,12 +135,11 @@
               "RelativeToolTip": "CustomValidations\\ValidDOJ.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwBMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T09:54:11.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T09:54:11.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\Views\\JobApplication\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\JobApplication\\Index.cshtml",
@@ -135,32 +152,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "JobApplicationController.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\Controllers\\JobApplicationController.cs",
               "RelativeDocumentMoniker": "Controllers\\JobApplicationController.cs",
               "ToolTip": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\Controllers\\JobApplicationController.cs",
               "RelativeToolTip": "Controllers\\JobApplicationController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T09:31:34.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "GenderValidate.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\CustomValidations\\GenderValidate.cs",
               "RelativeDocumentMoniker": "CustomValidations\\GenderValidate.cs",
               "ToolTip": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\CustomValidations\\GenderValidate.cs",
               "RelativeToolTip": "CustomValidations\\GenderValidate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T09:28:23.351Z"
+              "WhenOpened": "2026-01-07T09:28:23.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ValidBirthDate.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\CustomValidations\\ValidBirthDate.cs",
               "RelativeDocumentMoniker": "CustomValidations\\ValidBirthDate.cs",
@@ -168,12 +186,11 @@
               "RelativeToolTip": "CustomValidations\\ValidBirthDate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T09:24:30.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T09:24:30.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CheckBox.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\Models\\CheckBox.cs",
               "RelativeDocumentMoniker": "Models\\CheckBox.cs",
@@ -185,13 +202,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "JobApplication.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\Models\\JobApplication.cs",
               "RelativeDocumentMoniker": "Models\\JobApplication.cs",
               "ToolTip": "C:\\Training code files\\Practice files\\7 Jan\\Custom_Validation_Prj\\Models\\JobApplication.cs",
               "RelativeToolTip": "Models\\JobApplication.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T09:20:33.805Z",
               "EditorCaption": ""

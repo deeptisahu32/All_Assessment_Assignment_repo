@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_1\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B721D584-0B9F-414C-9EF5-9EA4DF77A940}|Web_API_1.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T07:14:41.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Models\\Person.cs",
-              "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA3wA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T07:12:26.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HelpPageConfig.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
               "RelativeDocumentMoniker": "Areas\\HelpPage\\App_Start\\HelpPageConfig.cs",
@@ -85,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
@@ -98,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
@@ -111,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DemoController.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Controllers\\DemoController.cs",
               "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
@@ -124,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_API_1\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",

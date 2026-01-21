@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\asp.net_core_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:asp.net_core_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\asp.net_core_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:asp.net_core_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|c:\\training code files\\practice files\\14 jan asp.net core\\asp.net_core_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FF0E89-C421-4022-B1A6-4FC94A6F55FE}|Asp.net_Core_Prj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-14T10:38:06.633Z",
               "EditorCaption": ""
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -73,8 +73,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Asp.net_Core_Prj",
+              "DocumentIndex": 0,
+              "Title": "Asp.net_Core_Prj.csproj",
               "DocumentMoniker": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Asp.net_Core_Prj.csproj",
               "RelativeDocumentMoniker": "Asp.net_Core_Prj.csproj",
               "ToolTip": "C:\\Training code files\\Practice files\\14 jan Asp.Net Core\\Asp.net_Core_Prj\\Asp.net_Core_Prj.csproj",
