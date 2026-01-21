@@ -5,28 +5,18 @@ using WebApiDBFirst.Models;
 
 namespace WebApiDBFirst.Controllers
 {
-    public class CustomerController : ApiController
+    public class CustomersController : ApiController
     {
         private NorthwindMiniEntities1 db = new NorthwindMiniEntities1();
 
-        // GET: api/Customers/ByCountry/UK
         [HttpGet]
-        [Route("api/Customers/ByCountry/{country}")]
-        [ResponseType(typeof(IQueryable<object>))]
-        public IHttpActionResult ByCountry(string country)
+        [Route("api/customers/by-country/{country}")]
+        [ResponseType(typeof(object))]
+        public IHttpActionResult GetByCountry(string country)
         {
-            // Function Import call (works whether it returns Complex Type or Customer entity)
-            var data = db.GetCustomersByCountry(country)
-                         .Select(c => new
-                         {
-                             c.CustomerID,
-                             c.CompanyName,
-                             c.ContactName,
-                             c.Country
-                         });
-
-            if (!data.Any()) return NotFound();
-            return Ok(data);
+           
+            var result = db.GetCustomersByCountry(country);
+            return Ok(result);
         }
 
         protected override void Dispose(bool disposing)

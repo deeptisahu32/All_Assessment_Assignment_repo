@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_ef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|c:\\training code files\\practice files\\12 jan web api\\web_api_ef\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C21699A0-E1D1-4CFF-BEF7-FBEA235A9066}|Web_Api_EF.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -62,8 +62,7 @@
               "RelativeToolTip": "App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:57:08.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T11:57:08.967Z"
             },
             {
               "$type": "Document",
@@ -86,7 +85,7 @@
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Training code files\\Practice files\\12 jan Web API\\Web_Api_EF\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T11:36:49.536Z",
               "EditorCaption": ""

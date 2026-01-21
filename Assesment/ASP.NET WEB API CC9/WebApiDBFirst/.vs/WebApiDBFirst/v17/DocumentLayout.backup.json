@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\webapidbfirst\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\webapidbfirst\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\webapidbfirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\webapidbfirst\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\webapidbfirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\webapidbfirst\\models\\customerbycountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:models\\customerbycountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|c:\\training code files\\assesment\\asp.net web api cc9\\webapidbfirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{9C942C49-B57F-4EF1-93A8-51C6DAFD3CEF}|WebApiDBFirst.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,46 +46,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "CustomerByCountryDto.cs",
+              "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Models\\CustomerByCountryDto.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerByCountryDto.cs",
+              "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Models\\CustomerByCountryDto.cs",
+              "RelativeToolTip": "Models\\CustomerByCountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:25:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T06:08:50.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
               "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T05:51:01.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
               "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T05:45:54.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -89,12 +106,11 @@
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T05:43:42.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T05:43:42.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -107,15 +123,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "Models\\Model1.edmx",
               "ToolTip": "C:\\Training code files\\Assesment\\ASP.NET WEB API CC9\\WebApiDBFirst\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-01-21T05:33:55.09Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-01-21T05:33:55.09Z"
             }
           ]
         }
